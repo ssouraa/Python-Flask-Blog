@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql+mysqlconnector://root:@localhost/my code journey",
+    "prod_uri":"mysql+mysqlconnector://root:@localhost/my code journey",
+    "fb_url": "https://facebook.com/my_code_journey",
+    "tw_url": "https://twitter.com/my_code_journey",
+    "gh_url": "https://github.com/my_code_journey",
+    "gmail-user": "mynameisgamesbond1@gmail.com",
+    "gmail-password": "souras9392",
+    "about_text": "hello souras you build this blog",
+    "no_of_posts": 2,
+    "blogname": "my code journey",
+    "login_image": "loginImg.jpg",
+    "admin_user": "souras",
+    "admin_password": "mycodejourney"
+  }
+}
